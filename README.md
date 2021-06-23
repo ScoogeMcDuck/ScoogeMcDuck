@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ScoogeMcDuck
 - 👀 I’m interested in stuff and programming
 - 🌱 I’m currently learning solidity, haskell, python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on blockchain and front end developement
 - 📫 How to reach me ...
 
 <!---
